@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/Users/BairesDev/Desktop/Jorie AI/robocorp-action-upload/test-robot/."
+    ]
+}
